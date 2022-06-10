@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Turtle313
 - 👀 I’m interested in ...progaming Fronted 
-- 🌱 I’m currently learning ...JavaScript and HTML
+- 🌱 I’m currently learning ...JavaScript, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
